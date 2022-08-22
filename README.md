@@ -8,7 +8,7 @@
 
 * <ins>Neural_Academy_Final_Project</ins>: The project consists of exploratory data analysis and modeling using custom transformers and data pipelines. The problem consists in a binary classification to predict the state of a machine (0 or 1). For this training dataset of 900,000 samples, feature engineering plays an important role in the outcome of the performance. [[Link to dataset](https://www.kaggle.com/competitions/tabular-playground-series-may-2022/overview/description)]
 
-* <ins>Weather_Image_Recognition</ins>: In this Computer Vision project a pre-trained neural network is used to built a model for multiclass classification of 11 different categories of weather images using transfer learning with fine tuning technique. The dataset (11 directories) contains labeled 6862 images of different types of weather [[Link to dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)]
+* <ins>Weather_Image_Recognition</ins>: In this Computer Vision project a pre-trained neural network is used to built a CNN model for multiclass classification of 11 different categories of weather images using transfer learning with fine tuning technique. The dataset (11 directories) contains labeled 6862 images of different types of weather [[Link to dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)]
 
 
 * <ins>minor_projects</ins>: My first Python programs about ROC and PR curves and kNN (k-nearest neighbors) model implementation. 
