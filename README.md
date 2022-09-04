@@ -13,4 +13,4 @@
 
 * <ins>minor_projects</ins>: My first Python programs about ROC and PR curves and kNN (k-nearest neighbors) model implementation. 
 
-<ins>Data_extraction</ins>: Extraction techniques for typical unstructured data sources.
+* <ins>Data_extraction</ins>: Extraction techniques for typical unstructured data sources.
